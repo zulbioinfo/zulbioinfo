@@ -5,24 +5,17 @@
 
 <br>
 
-Hi 👋
+Hi there 👋
 
-I'm **Zulqarnain** — a student exploring **Bioinformatics & Computational Biology 💻🧬**
-
----
-
-## 🚀 About Me
-
-* 🌱 Currently learning bioinformatics from **absolute zero**
-* 🧠 Building skills in programming and biological data analysis
-* 📚 Documenting my learning journey step by step
+I'm **Zulqarnain** — a passionate student exploring **Bioinformatics & Computational Biology 💻🧬**
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Repository
 
 * 🧬 [**learning-bioinformatics**](https://github.com/zulbioinfo/learning-bioinformatics)
-  → A beginner-friendly journey from zero, including projects, scripts, and concepts
+
+  → A personal journal documenting my scripts, projects, and progress
 
 ---
 
@@ -32,20 +25,15 @@ I'm **Zulqarnain** — a student exploring **Bioinformatics & Computational Biol
 
 ## 🎯 Learning Goals
 
-* [x] 🐍 Python Programming
+* [x] 🐍 Python
 * [ ] 📊 R Programming
 * [ ] 🖥️ Command Line / Linux
-* [ ] 🧬 Molecular Biology
+* [ ] 🧬 Computational Biology
 * [ ] 🌐 Biological Databases
 
 ## 📊 Progress
 
   - Python Basics: In Progress
-
-## 🛠️ Tools I'm Learning
-
-  - Python
-  - Git & GitHub
 
 </details>
 
