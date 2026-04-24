@@ -23,7 +23,7 @@ I’m focused on building a strong foundation while keeping my path open across:
 
 ### 🔗 Featured Repository
 
-* [**learning-bioinformatics**](https://github.com/zulbioinfo/learning-bioinformatics)
+* [**learning-bioinformatics**](https://github.com/zulqarnaininfo/learning-bioinformatics)   
   → A personal learning journal of small projects, experiments, and progress over time
 
 ---
